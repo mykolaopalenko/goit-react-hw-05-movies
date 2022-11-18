@@ -13,8 +13,7 @@
   border-radius: 5px;
   border: 1px solid #bbbbbb;
 }
-.link:hover,
-:focus {
+.link:hover{
   color: #dddddd;
   background-color: #212121;
 }
